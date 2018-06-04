@@ -5,4 +5,4 @@
 + 每个人的浏览记录如下图所示：
 ![截图](https://github.com/fanduo12138/User_Identity_Linkage/blob/master/%E6%88%AA%E5%9B%BE.png)
 + 具体细节请参看论文：《Siamese Neural Networks for Imbalanced User Identity Linkage through Visited Webpages》
-+ 原始数据位置：https://drive.google.com/file/d/1GfwbLCuqHkCwUsq8q382DrqvYB07Nx2e/view?usp=sharing
+
